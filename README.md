@@ -1,0 +1,4 @@
+- 👋 ola meu nome é thays
+- 👀 meu email de contato é thays.zouza@escola.pr.gov.br
+- 🌱 eu estou interessada em aprender novas linguagens.
+- 💞️ eu estou aprendendo a programar recentimente a linguagem de javaScript e Scratch
